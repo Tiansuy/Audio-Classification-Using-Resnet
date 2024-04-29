@@ -16,4 +16,6 @@
   ```python audio_cnn_pytorch.py```
      
   </li>
+
+  - with acc 44.5%
 </ul>
