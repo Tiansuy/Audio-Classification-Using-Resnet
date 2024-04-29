@@ -10,7 +10,7 @@
    
    ```python prepare_dataset.py```
   </li>
-  <li> Next there are 2 custom model(one is CNN based and the other is RNN based) built using PyTorch and it is trained on the preprocessed data. 
+  <li> Next there are 2 custom model(one is CNN based) built using PyTorch and it is trained on the preprocessed data. 
      For CNN based model run:-
   
   ```python audio_cnn_pytorch.py```
